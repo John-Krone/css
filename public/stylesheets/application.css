@@ -1,0 +1,28 @@
+body {
+  background-color: aquamarine;
+  margin-left: 30px;
+
+}
+
+h1 {
+  color: red;
+  font-size: 70px;
+
+}
+p {
+color: purple;
+
+}
+
+p a {
+color: pink;
+text-decoration: none;
+}
+
+#boba {
+  color: green
+}
+.bright {
+color: yellow;
+
+}
